@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qualifio_services_domain" translatable="false">debug.example.com</string>
+</resources>
