@@ -18,7 +18,7 @@ dependencies {
 
 gradlePlugin {
     website = "https://qualifio.com/"
-    vcsUrl = "https://https://github.com/qualifio/qualifio-services-gradle-plugin/"
+    vcsUrl = "https://github.com/qualifio/qualifio-services-gradle-plugin/"
 
     plugins {
         create("qualifioServicesGradlePlugin") {
